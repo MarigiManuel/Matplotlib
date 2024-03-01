@@ -35,7 +35,7 @@ plt.xlabel('Day of the Week')
 plt.ylabel('Average Tip Amount')
 plt.show()
 
-
+# Combine the visualizations into a single figure or multiple subplots to create the dashboard layout.
 # Create a subplot layout for the dashboard
 fig, axs = plt.subplots(3, 1, figsize=(10, 12))
 
